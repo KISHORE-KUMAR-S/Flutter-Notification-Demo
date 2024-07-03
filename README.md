@@ -1,3 +1,3 @@
-# flutter_application_1
+# Flutter Notification Demo
 
 A new Flutter project.
